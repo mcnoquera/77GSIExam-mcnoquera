@@ -1,0 +1,6 @@
+framework module Pods_Tech_Exam_Tech_ExamUITests {
+  umbrella header "Pods-Tech-Exam-Tech-ExamUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
